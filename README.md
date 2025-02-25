@@ -11,7 +11,12 @@ content="width=device-width, initial-scale=1.0">
 </body>
 </html>
 
-package javaaa;
+
+
+
+
+
+        package javaaa;
 
 
 import java.util.NoSuchElementException;
@@ -20,7 +25,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner financeiro = new Scanner(System.in);
-        
         System.out.println("Seja bem-vindo ao Planejador Financeiro para Professores e Alunos");
       
         while (true) {
